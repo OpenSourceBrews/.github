@@ -1,6 +1,6 @@
 # OpenSourceBrews
 
-Welcome to OpenSourceBrews, a collaborative haven where simplicity and innovation come together through open-source software. Here, we're building a community-driven platform that champions high-quality, accessible tools and packages designed to streamline the coding experience for everyone.
+Welcome to OpenSourceBrews, a community-driven platform that champions high-quality, accessible tools and packages designed to streamline the coding experience for everyone.
 
 OpenSourceBrews is rooted in the principles of open-source: transparency, collaboration, and collective empowerment. It's a space not just for showcasing projects but for nurturing a vibrant ecosystem where developers, from the experienced to the novices, can share, learn, and contribute.
 
